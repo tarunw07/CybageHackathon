@@ -16,7 +16,7 @@
     "url": "https://github.com/tarunw07/CybageHackathon/issues"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "body-parser": "^1.15.0",
