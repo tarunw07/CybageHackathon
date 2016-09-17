@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "1967a18c87bc292e6519c13a5eeb95d8",
+    "pageAccessToken": "EAABo6TXHVkkBACm1dxLZChhe2tANTJ2QdzeNGF36FTTkRwASBkx3TatcPyNeH0YK8GGA8wXgWSbHOV9yLZCiLDulCIPejqj9Clvcry06RM0xJ5O0IZBgwLJ7CLxDT6YhhmQAf35eO65mA7fZBZCdLSfyX9pCC9FXJUVu4R0Ys6QZDZD",
+    "validationToken": "secret",
+    "serverURL": "https://ancient-forest-26690.herokuapp.com"
 }
