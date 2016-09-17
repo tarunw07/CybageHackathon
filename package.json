@@ -1,0 +1,35 @@
+{
+  "name": "cybagehackathon",
+  "version": "1.0.0",
+  "description": "Parking Automation Using Messenger Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunw07/CybageHackathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunw07/CybageHackathon/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "config": "^1.20.4",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "request": "^2.72.0",
+    "node-wit": "^4.0.0",
+    "pg": "6.0.3",
+    "node-cron": "1.1.1",
+    "events" : "1.0.0",
+    "async" : "2.0.1"
+  },
+  "engines": {
+    "node": "~6.2.2",
+    "npm": "3.9.5"
+  },
+  "homepage": "https://github.com/tarunw07/CybageHackathon#readme"
+}
